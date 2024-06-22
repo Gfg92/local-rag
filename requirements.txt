@@ -1,0 +1,4 @@
+chroma-hnswlib==0.7.3
+chromadb==0.5.3
+ollama==0.2.1
+
